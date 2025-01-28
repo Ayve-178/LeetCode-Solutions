@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ayve-178/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ayve-178/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayve-178/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
 |  |
